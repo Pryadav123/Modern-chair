@@ -460,8 +460,8 @@ h5{
         margin-right: 15px;
         margin-left: 15px;
     }
-    .desc-btn:checked + label,
-    .desc-btn:not(:checked) + label{
+    .color-btn:checked + label,
+    .color-btn:not(:checked) + label{
         height: 40px;
         width: 40px;
         margin: 5px auto;
